@@ -1,0 +1,6 @@
+# core
+numpy==2.2.6
+
+# notebook environment
+jupyterlab==4.6.3
+ipykernel==7.3.0
