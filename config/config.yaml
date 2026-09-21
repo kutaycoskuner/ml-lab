@@ -1,0 +1,3 @@
+output:
+  directory: "output"
+  graph_filename: "linear_regression.png"
